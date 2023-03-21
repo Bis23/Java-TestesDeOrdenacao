@@ -1,0 +1,5 @@
+Após os testes realizados, pode-se concluir que o teste 
+Insert é o método mais eficiente dos três, com as
+menores médias de processamento. Enquanto isso, o 
+método Bubble se mostra o mais ineficiente, com as
+maiores médias de processamento.
